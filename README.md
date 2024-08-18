@@ -10,3 +10,6 @@
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
+
+- [3.1. To-Be Scenario Mapping](/feature/chapter-III.md#31-to-be-scenario-mapping)
