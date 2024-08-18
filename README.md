@@ -12,4 +12,4 @@
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 
-- [3.1. To-Be Scenario Mapping](.feature/chapter-III.md#31-to-be-scenario-mapping)
+- [3.1. To-Be Scenario Mapping](/chapter-III.md#31-to-be-scenario-mapping)
