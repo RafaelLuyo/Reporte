@@ -158,8 +158,11 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 |purchase()   ||
 |cancelPurchase ()   ||
 |track()   ||
+
 #### 4.2.1.2. Interface Layer
 **Controllers** 
+
+XDF
 
 |**Class Name** |**Purpose** |**Methods** |
 | :- | :- | :- |
