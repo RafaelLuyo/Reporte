@@ -95,6 +95,7 @@ Segmento Productores Agricolas:
 
 Segmento Proveedores de agua:
 ![](assets2\Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png)
+
 ### 2.3.2. User Task Matrix
 
 <table><tr><th rowspan="2" valign="top">Task</th><th colspan="2" valign="top">Productores Agrícolas</th><th colspan="2" valign="top">Proveedores de Agua de Riego</th></tr>
