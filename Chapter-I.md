@@ -1,6 +1,18 @@
 # **CAPÍTULO I: INTRODUCCIÓN**
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+En IoTeam, somos un grupo apasionado de ingenieros que ha unido fuerzas para transformar el sector agrícola con soluciones tecnológicas de vanguardia. Creemos en el poder de la innovación para enfrentar los desafíos más críticos de la agricultura moderna, y es por eso que hemos desarrollado "Thirsty Seed": una aplicación de última generación que combina la inteligencia del Internet de las Cosas (IoT) con la necesidad vital de un riego eficiente y controlado.
+
+"Thirsty Seed" (o "semilla sedienta" en español) no es solo una herramienta más; es la clave para que los agricultores puedan maximizar el rendimiento de sus forrajes, garantizar la calidad del alimento para sus animales, y reducir costos operativos de manera significativa. Con nuestra aplicación, el riego se convierte en un proceso automatizado, eliminando la incertidumbre y asegurando que cada gota de agua se utilice de manera óptima. Además, los usuarios reciben notificaciones en tiempo real cuando es necesario rellenar sus depósitos, manteniendo el flujo de trabajo sin interrupciones.
+
+Al elegir IoTeam, los agricultores acceden a una tecnología que no solo les brinda un control sin precedentes sobre sus cultivos, sino que también les permite concentrarse en lo que realmente importa: el crecimiento y la sostenibilidad de sus operaciones. Con "Thirsty Seed", estamos redefiniendo la manera en que el sector agrícola aborda el riego, llevando la eficiencia, la precisión y la tranquilidad directamente a las manos de nuestros usuarios.
+
+MISIÓN
+
+En **IoTeam**, nuestra misión es empoderar a los agricultores y Productores Agricolas con tecnologías avanzadas de IoT a través de nuestra aplicación **'Thirsty Seed'**, ofreciendo soluciones que no solo mejoren la eficiencia y productividad del riego de forrajes, sino que también contribuyan al bienestar del medio ambiente y la sostenibilidad agrícola
+
+VISIÓN
+Convertirnos en el líder en soluciones de riego inteligente para el sector agrícola, ayudando a los agricultores de todo el mundo a optimizar el uso del agua, mejorar la calidad de sus cultivos, y garantizar la sostenibilidad de sus operaciones
 ### 1.1.2. Perfiles de integrantes del equipo
 |**Foto**|**Nombre Completo**|**Código de Estudiante**|**Descripción de Carrera**| **Resumen de Conocimientos Técnicos y Habilidades**|
 |------|-----------------|----------------------|------------------------|------------------------------------------------|
