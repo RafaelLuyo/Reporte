@@ -162,6 +162,8 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 #### 4.2.1.2. Interface Layer
 **Controllers** 
 
+prueba
+
 |**Class Name** |**Purpose** |**Methods** |
 | :- | :- | :- |
 |DataController |Maneja las solicitudes relacionadas con datos y reportes. |getDataRecords(request: DataRequest): Response, generateReport(request: ReportRequest): Response |
