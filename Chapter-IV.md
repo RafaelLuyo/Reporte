@@ -4,6 +4,28 @@
 #### 4.1.1.1 Candidate Context Discovery
 #### 4.1.1.2 Domain Message Flows Modeling
 #### 4.1.1.3 Bounded Context Canvases
+
+User:
+
+![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.009.png)
+
+Inventory:
+
+![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.010.png)
+
+Device:
+
+![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.011.png)
+
+Notifications:
+
+![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.012.png)
+
+Data Management:
+
+![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.013.png)
+
+
 ### 4.1.2. Context Mapping
 ### 4.1.3. Software Architecture
 #### 4.1.3.2. Software Architecture Context Level Diagrams
