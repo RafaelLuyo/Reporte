@@ -269,7 +269,7 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 |**Class Name** |**Purpose** |**Methods** |
 | :- | :- | :- |
 |CreateNotificationCommandHandler |Maneja el comando para crear una nueva notificación. |handle(command: CreateNotificationCommand): void |
-|UpdateNotificationStatusHandler |Maneja el comando para actualizar el estado de una notificación. |handle(command: UpdateNotificationStatusCommand): void |
+|UpdateNotificationStatusHandler |Maneja el comando para actualizar el estado de una notificación. |handle(command: UpdateNotificationStatusCommand): void | 
 
 **Event Handlers** 
 
